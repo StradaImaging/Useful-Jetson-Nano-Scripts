@@ -8,8 +8,8 @@ Containing scripts to build OpenCL, OpenCV on cuda, and other essential stuff
 4. sudo chmod 755 OpenCL_install.sh
 5. ./OpenCL_install.sh
 6. Paste /usr/local/pocl/lib/libpocl.so and save
-7. sudo chmod 755 OpenCV-4.5.4_install.sh
-8. ./OpenCV-4.5.4_install.sh
+7. sudo chmod 755 OpenCV-4-5-4_install.sh
+8. ./OpenCV-4-5-4_install.sh
 
 ### Optional if you need to install VSCode on Jetson Nano
 1. sudo chmod 755 vscode_install.sh
